@@ -5064,7 +5064,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .bar.bar1::before{
-    width: calc(95% - 10px);
+    width: calc(90% - 10px);
 }
 
 .bar.bar2::before{
@@ -5072,19 +5072,19 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .bar.bar3::before{
-    width: calc(55% - 10px);
+    width: calc(50% - 10px);
 }
 
 .bar.bar4::before{
-    width: calc(75% - 10px);
-}
-
-.bar.bar5::before{
     width: calc(85% - 10px);
 }
 
+.bar.bar5::before{
+    width: calc(80% - 10px);
+}
+
 .bar.bar6::before{
-    width: calc(65% - 10px);
+    width: calc(70% - 10px);
 }
 
 
