@@ -5080,11 +5080,11 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .bar.bar5::before{
-    width: calc(80% - 10px);
+    width: calc(85% - 10px);
 }
 
 .bar.bar6::before{
-    width: calc(70% - 10px);
+    width: calc(75% - 10px);
 }
 
 
